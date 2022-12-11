@@ -1,2 +1,1 @@
-# Kaggle-House-Price-Prediction
-Predicting House prices using Python
+# Data Preprocessing and House Price Prediction
